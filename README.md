@@ -60,9 +60,17 @@ Dabei geht es in den verschiedenen Abteilungen um ganz unterschiedliche Frageste
 
 Falls etwas schief geht, habe ich zumindest noch Screenshots gemacht.
 
+Datenquelle hinzufügen:
 ![img.png](Media/datasource.png)
+
+Daten mit dem Explorer Untersuchen und Visualisieren:
 ![img.png](Media/explorer.png)
+
+Bericht erstellen und exportieren:
 ![img.png](Media/report.png)
+
+Einen Bericht um weitere Charts erweitern:
+![img.png](Media/report-edit.png)
 
 Und hier ein Beispiel-Report, der aus Looker exportiert wurde: [report.pdf](Media/report.pdf)
 
